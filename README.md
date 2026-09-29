@@ -25,3 +25,13 @@ Full Stack Development Lab Submissions (Section D)
   - Isolated Django virtual execution ecosystem using venv clusters (`setup_environment.sh`, `setup_environment.ps1`)
   - VS Code development profile directory for Python PEP8 compliance (`settings.json`, `keybindings.json`, `tasks.json`)
   - Automated deployment check script (`deploy_check.py`) validating runtime pathways, dependencies, and environment keys
+- **`labsheet 7/`** — **Lab Sheet 7: Model Array Collections, Dynamic Sorting & Fallback Logic**
+  - Mapping model collections to unordered matrices (Fruits) and ordered indices (Selected Event Students)
+  - Defensive fallback condition logic filters (`{% if %}`) with empty state alert boxes
+  - Dynamic table sorting tools (GET parameters `?sort=...&order=...` with visual sort direction indicators)
+  - Backend search input form processing query filters across models dynamically
+- **`labsheet 8/`** — **Lab Sheet 08: Template Inheritance Blueprints & Modular UI Engineering**
+  - Standardized core master layout blueprint (`templates/base.html`) with specialized child overrides (Home, About Us, Contact Us)
+  - Dynamic programmatic markers assigning context-specific CSS structural active highlights (`active_nav`)
+  - Persistent user feedback notification box hook across all inherited template screens
+  - Professional Contact Us form forwarding verified feedback text parameters directly into system server logs
